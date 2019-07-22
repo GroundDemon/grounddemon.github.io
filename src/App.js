@@ -17,7 +17,7 @@ export default function App() {
       </MetaTags>
       <div className="Header">
         <Link className="Header-Logo" to="/">RBY</Link>
-        <Link className="Header-About" to="/AboutPage"></Link>
+        //<Link className="Header-About" to="/AboutPage"></Link>
         <a className="Header-Twitter" href="https://twitter.com/grounddemonrby"></a>
       </div>
       <Switch>

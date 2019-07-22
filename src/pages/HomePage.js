@@ -7,10 +7,10 @@ export default function HomePage() {
  		<div className="Page-Title">
 			Project<br/>
 			<span className="Bold-Font">Ground Demon</span> <br/>
-			<span className="Paragraph-Font">Rising Beneath You. <span className="Bold-Font">41%</span> YOY.</span>
+			<span className="Paragraph-Font">$100k to $1MM in 5yrs</span>
  		</div> 
  		<div className="Crack-In-Ground"></div>
- 		<div className="Section-Header">Annual Performance</div>
+ 		<div className="Section-Header">Progress (41% YOY)</div>
  		<div className="Columns">
  			<div className="History-Section">
 				2017<br/>
@@ -50,7 +50,7 @@ export default function HomePage() {
 			<div className="Section-End"></div>
  		</div>
 
- 		<div className="Section-Header">Current Allocation</div>
+ 		<div className="Section-Header">Current Positions</div>
  		<div className="Columns">
  			<div className="Asset">
  				TWILIO<br/>
