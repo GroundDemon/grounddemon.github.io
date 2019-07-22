@@ -11,7 +11,7 @@ Rising Beneath You (RBY) is an investment program committed to making as much mo
 			<br/><br/>
 In July, 2019 we began posting our trades in real time on Twitter. 
 <br/><br/>
-RBY does not accept outside investments. We're rising beneath you, not with you.
+RBY does not accept outside investments. The Ground Demon rises beneath you, not with you.
 
 			</span>
 			</div> 
