@@ -54,35 +54,35 @@ export default function HomePage() {
  		<div className="Columns">
  			<div className="Asset">
  				TWILIO<br/>
-				29%
+				30%
  			</div>
  			<div className="Asset">
  				BITCOIN<br/>
-				20%
+				18%
  			</div>
  			<div className="Asset">
  				SHOPIFY<br/>
-				15%
- 			</div>
- 			<div className="Asset">
- 				HUBSPOT<br/>
 				14%
  			</div>
  			<div className="Asset">
- 				CASH<br/>
+ 				HUBSPOT<br/>
 				12%
  			</div>
  			<div className="Asset">
- 				SQUARE<br/>
-				9%
- 			</div>
- 			<div className="Asset">
- 				SLACK<br/>
+ 				CASH<br/>
 				6%
  			</div>
  			<div className="Asset">
+ 				SQUARE<br/>
+				11%
+ 			</div>
+ 			<div className="Asset">
+ 				SLACK<br/>
+				5%
+ 			</div>
+ 			<div className="Asset">
  				LYFT<br/>
-				4%
+				5%
  			</div>
  			<div className="Asset">
  				ALTS<br/>
