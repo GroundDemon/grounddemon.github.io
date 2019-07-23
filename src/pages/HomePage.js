@@ -10,7 +10,7 @@ export default function HomePage() {
 			<span className="Paragraph-Font">$100k to $1MM in 5yrs</span>
  		</div> 
  		<div className="Crack-In-Ground"></div>
- 		<div className="Section-Header">Progress (41% YOY)</div>
+ 		<div className="Section-Header">Progress</div>
  		<div className="Columns">
  			<div className="History-Section">
 				2017<br/>
@@ -50,7 +50,7 @@ export default function HomePage() {
 			<div className="Section-End"></div>
  		</div>
 
- 		<div className="Section-Header">Current Positions</div>
+ 		<div className="Section-Header">Allocation</div>
  		<div className="Columns">
  			<div className="Asset">
  				TWILIO<br/>
