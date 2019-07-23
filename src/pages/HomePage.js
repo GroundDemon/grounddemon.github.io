@@ -15,21 +15,21 @@ export default function HomePage() {
  			<div className="History-Section">
 				2017<br/>
 				<span className="Year-End-Total">$164k</span>
-				BOY: $0<br/>
+				+BOY: $0<br/>
 				+cash: $105k<br/>
 				+return: 59% <br/>
  			</div>
  			<div className="History-Section">
 				2018<br/>
 				<span className="Year-End-Total">$280k</span>
-				BOY: $164K<br/>
+				+BOY: $164K<br/>
 				+cash: $66k<br/>
 				+return: 22% <br/>
  			</div>
  			<div className="History-Section">
 				2019 (Current)<br/>
 				<span className="Year-End-Total">$510k</span>
-				BOY: $280k<br/>
+				+BOY: $280k<br/>
 				+cash: $67k<br/>
 				+return: 47% <br/>
  			</div>
@@ -69,12 +69,12 @@ export default function HomePage() {
 				12%
  			</div>
  			<div className="Asset">
- 				CASH<br/>
-				6%
- 			</div>
- 			<div className="Asset">
  				SQUARE<br/>
 				11%
+ 			</div>
+ 			<div className="Asset">
+ 				CASH<br/>
+				6%
  			</div>
  			<div className="Asset">
  				SLACK<br/>
