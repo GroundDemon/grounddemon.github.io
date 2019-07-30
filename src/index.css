@@ -104,6 +104,13 @@ body {
 
 }
 
+.Paragraph-Font-2 {
+	font-size: 14px;
+	display: block;
+	line-height: 26px;
+
+}
+
 .Crack-In-Ground {
 	position: relative;
 	height: 410px;
