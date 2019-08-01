@@ -19,7 +19,7 @@ export default function HomePage() {
  		<div className="Columns">
  			<div className="Asset">
  				TWILIO<br/>
-				30%
+				29%
  			</div>
  			<div className="Asset">
  				BITCOIN<br/>
@@ -31,23 +31,23 @@ export default function HomePage() {
  			</div>
  			<div className="Asset">
  				HUBSPOT<br/>
-				12%
+				13%
  			</div>
  			<div className="Asset">
  				SQUARE<br/>
 				11%
  			</div>
- 			<div className="Asset">
- 				CASH<br/>
+  			<div className="Asset">
+ 				SLACK<br/>
 				6%
  			</div>
  			<div className="Asset">
- 				SLACK<br/>
+ 				CASH<br/>
 				5%
  			</div>
  			<div className="Asset">
  				LYFT<br/>
-				5%
+				4%
  			</div>
  			<div className="Asset">
  				ALTS<br/>
