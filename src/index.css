@@ -112,11 +112,15 @@ body {
 }
 
 .Crack-In-Ground {
-	position: relative;
-	height: 410px;
-	width:100%;
-	background-image: url('./img/crack_in_ground.png'); 
-	background-size: 100% 100%; 
+	position: relative; width: 100%;
+	margin: auto ;
+	padding: 150px 20px 0 20px;
+	font-size: 30px;
+	box-sizing: border-box;
+	height: 610px;
+	background-image: url('./img/rocket.gif'); 
+	background-size: 100%;
+	background-position:bottom; 
 }
 
 .Section-Header {

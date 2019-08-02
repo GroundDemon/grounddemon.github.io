@@ -4,12 +4,11 @@ import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterH
 export default function HomePage() {
   return (
     <div className="Page-Container">
- 		<div className="Page-Title">
+ 		<div className="Crack-In-Ground">
 			Project<br/>
 			<span className="Bold-Font">Ground Demon</span> <br/>
 			<span className="Paragraph-Font">$100k to $1MM in 5yrs</span>
- 		</div> 
- 		<div className="Crack-In-Ground"></div>
+ 		</div>
 
  		<div className="Page-Title">
 			Current Value<br/>
