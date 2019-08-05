@@ -12,17 +12,17 @@ export default function HomePage() {
 
  		<div className="Page-Title">
 			Current Value<br/>
-			<span className="Bold-Font">$510,000</span> <br/>
+			<span className="Bold-Font">$480,000</span> <br/>
 			
  		</div> 
  		<div className="Columns">
  			<div className="Asset">
  				TWILIO<br/>
-				29%
+				27%
  			</div>
  			<div className="Asset">
  				BITCOIN<br/>
-				18%
+				22%
  			</div>
  			<div className="Asset">
  				SHOPIFY<br/>
@@ -30,23 +30,23 @@ export default function HomePage() {
  			</div>
  			<div className="Asset">
  				HUBSPOT<br/>
-				13%
+				12%
  			</div>
  			<div className="Asset">
  				SQUARE<br/>
-				11%
+				10%
  			</div>
   			<div className="Asset">
  				SLACK<br/>
-				6%
- 			</div>
- 			<div className="Asset">
- 				CASH<br/>
-				5%
+				7%
  			</div>
  			<div className="Asset">
  				LYFT<br/>
 				4%
+ 			</div>
+ 			<div className="Asset">
+ 				CASH<br/>
+				3%
  			</div>
  			<div className="Asset">
  				ALTS<br/>
