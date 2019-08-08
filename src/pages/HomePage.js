@@ -10,9 +10,9 @@ export default function HomePage() {
 			<span className="Paragraph-Font">$100k to $1MM in 5yrs</span>
  		</div>
 
- 		<div className="Page-Title">
+ 		<div className="Page-Title2">
 			Current Value<br/>
-			<span className="Bold-Font">$480,000</span> <br/>
+			<span className="Bold-Font">$500,000</span> <br/>
 			
  		</div> 
  		<div className="Columns">
@@ -22,15 +22,15 @@ export default function HomePage() {
  			</div>
  			<div className="Asset">
  				BITCOIN<br/>
-				22%
+				21%
  			</div>
  			<div className="Asset">
  				SHOPIFY<br/>
-				14%
+				15%
  			</div>
  			<div className="Asset">
  				HUBSPOT<br/>
-				12%
+				14%
  			</div>
  			<div className="Asset">
  				SQUARE<br/>
@@ -42,11 +42,11 @@ export default function HomePage() {
  			</div>
  			<div className="Asset">
  				LYFT<br/>
-				4%
+				5%
  			</div>
  			<div className="Asset">
  				CASH<br/>
-				3%
+				2%
  			</div>
  			<div className="Asset">
  				ALTS<br/>
@@ -76,10 +76,10 @@ export default function HomePage() {
  			</div>
  			<div className="History-Section">
 				2019 (Current)<br/>
-				<span className="Year-End-Total">$510k</span>
+				<span className="Year-End-Total">$500k</span>
 				+BOY: $280k<br/>
-				+cash: $67k<br/>
-				+return: 47% <br/>
+				+cash: $62k<br/>
+				+return: 46% <br/>
  			</div>
  			<div className="History-Section">
 				2020<br/>
