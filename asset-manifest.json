@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7b1ea547.chunk.css",
-    "main.js": "/static/js/main.a363e33d.chunk.js",
-    "main.js.map": "/static/js/main.a363e33d.chunk.js.map",
+    "main.js": "/static/js/main.4c5574c7.chunk.js",
+    "main.js.map": "/static/js/main.4c5574c7.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.fd5e88f8.chunk.js": "/static/js/2.fd5e88f8.chunk.js",
     "static/js/2.fd5e88f8.chunk.js.map": "/static/js/2.fd5e88f8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e96cb52916d8fbbc6a3a70371e0df972.js": "/precache-manifest.e96cb52916d8fbbc6a3a70371e0df972.js",
+    "precache-manifest.b6c1d81b282b2bff528db43d4c87ba69.js": "/precache-manifest.b6c1d81b282b2bff528db43d4c87ba69.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7b1ea547.chunk.css.map": "/static/css/main.7b1ea547.chunk.css.map",
     "static/media/index.css": "/static/media/rocket.0eccf365.gif"
