@@ -60,39 +60,39 @@ export default function HomePage() {
  		</div> 
  		<div className="Columns">
  			<div className="History-Section">
-				2017<br/>
+				<span className="Bold-Font">2017</span><br/>
+				Start: $0<br/>
+				+ cash: $105k<br/>
+				Return: 59% <br/>
 				<span className="Year-End-Total">$164k</span>
-				+BOY: $0<br/>
-				+cash: $105k<br/>
-				+return: 59% <br/>
  			</div>
  			<div className="History-Section">
-				2018<br/>
+				<span className="Bold-Font">2018</span><br/>
+				Start: $164K<br/>
+				+ cash: $66k<br/>
+				Return: 22% <br/>
 				<span className="Year-End-Total">$280k</span>
-				+BOY: $164K<br/>
-				+cash: $66k<br/>
-				+return: 22% <br/>
  			</div>
  			<div className="History-Section">
-				2019 (Current)<br/>
+				<span className="Bold-Font">2019</span><br/>
+				Start: $280k<br/>
+				+ cash: $62k<br/>
+				Return: 46% <br/>
 				<span className="Year-End-Total">$493k</span>
-				+BOY: $280k<br/>
-				+cash: $62k<br/>
-				+return: 46% <br/>
  			</div>
  			<div className="History-Section">
-				2020<br/>
+				<span className="Bold-Font">2020</span><br/>
+				?????<br/>
+				?????<br/>
+				?????<br/>
 				<span className="Year-End-Total">?????</span>
-				?????<br/>
-				?????<br/>
-				?????<br/>
  			</div>
  			<div className="History-Section">
-				2021<br/>
+				<span className="Bold-Font">2021</span><br/>
+				?????<br/>
+				?????<br/>
+				?????<br/>
 				<span className="Year-End-Total">?????</span>
-				?????<br/>
-				?????<br/>
-				?????<br/>
  			</div>
 			<div className="Section-End"></div>
  		</div>

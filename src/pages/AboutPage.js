@@ -31,7 +31,7 @@ RBY Principles:
 <li>Wait for IPO's to dip before starting a position. If they go up find another opportunity.</li>
 <li>Be ready for corrections and buy great companies on the way down.</li>
 <li>Never buy on the way up. Be patient.</li>
-<li>Always be 50% invested in U.S companies.</li>
+<li>Always keep 50% invested.</li>
 </ul>
 
 	<br/>
