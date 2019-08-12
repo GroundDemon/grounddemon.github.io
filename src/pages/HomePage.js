@@ -7,11 +7,10 @@ export default function HomePage() {
  		<div className="Crack-In-Ground">
 			Project<br/>
 			<span className="Bold-Font">Ground Demon</span> <br/>
-			<span className="Paragraph-Font">$100k to $1MM in 5yrs</span>
  		</div>
 
  		<div className="Page-Title2">
-			Current Value<br/>
+			Long Positions<br/>
 			<span className="Bold-Font">$493,000</span> <br/>
 			
  		</div> 
@@ -57,7 +56,7 @@ export default function HomePage() {
 
   		<div className="Page-Title">
 			History<br/>
-			<span className="Paragraph-Font">41% average annual return</span>
+			<span className="Bold-Font">41% Annual Returns</span>
  		</div> 
  		<div className="Columns">
  			<div className="History-Section">
