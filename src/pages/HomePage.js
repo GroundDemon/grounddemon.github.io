@@ -12,7 +12,7 @@ export default function HomePage() {
 
  		<div className="Page-Title2">
 			Current Value<br/>
-			<span className="Bold-Font">$500,000</span> <br/>
+			<span className="Bold-Font">$493,000</span> <br/>
 			
  		</div> 
  		<div className="Columns">
@@ -42,15 +42,15 @@ export default function HomePage() {
  			</div>
  			<div className="Asset">
  				LYFT<br/>
-				5%
- 			</div>
- 			<div className="Asset">
- 				CASH<br/>
-				2%
+				6%
  			</div>
  			<div className="Asset">
  				ALTS<br/>
 				{'<1%'}
+ 			</div>
+ 			<div className="Asset">
+ 				CASH<br/>
+				0%
  			</div>
  			<div className="Section-End"></div>
  		</div>
@@ -76,7 +76,7 @@ export default function HomePage() {
  			</div>
  			<div className="History-Section">
 				2019 (Current)<br/>
-				<span className="Year-End-Total">$500k</span>
+				<span className="Year-End-Total">$493k</span>
 				+BOY: $280k<br/>
 				+cash: $62k<br/>
 				+return: 46% <br/>
